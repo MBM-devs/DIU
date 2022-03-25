@@ -61,25 +61,24 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Como el restaurante le ha llamado la atención y está en el centro de la ciudad decide reservar alojamiento cerca de él.",
-                touch4: "Movil",
+                goal4: "Como el restaurante le ha llamado la atención y está en el centro de la ciudad busca reservar alojamiento cerca de él.",
+                touch4: "Ordenador",
                 feel4: "2",
                 con4: "Todos los sitios de la zona son muy caros, pero encuentra uno algo lejos que se adecua al presupuesto.",
                 ima4: "cartoon-PChard.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
-                
                 goal5: "Cuando llega al Lemon rock le fascina el ambiente.",
                 touch5: "El restaurante",
                 feel5: "4",
-                con5: "Le cuesta entender el acento de los camareros.",
+                con5: "Le cuesta entender un poco el acento de los camareros.",
                 ima5: "cartoon-why.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
                 goal6: "Disfruta de la comida y de la musica en directo",
-                touch6: "ordenador",
+                touch6: "En la mesa",
                 feel6: "5",
                 con6: "Le encantaría poder tocar allí un día.",
                 ima6: "cartoon-resting.png",
@@ -92,55 +91,51 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Ainhoa Montagut",
+                Photo: "Ainhoa.jpg",
                 
-				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+				/*** PASO #1: INSPIRACION ***/ 
+                goal1: "Quiere buscar un bar/restaurante con buen ambiente para salir ir sus amigas el fin de semana",
+                touch1: "Movil",
+                feel1: "4",
+                con1: "Quiere encontrar un sitio cerca en el centro de la ciudad que no hayan visitado aun.",
+                ima1: "cartoon-phone-sitting.png",
                 
-                /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                /*** PASO #2: DECISION ***/ 
+                goal2: "Busca en internet restaurantes y bares para reservar ese mismo fin de semana.",
+                touch2: "Movil (Google maps)",
+                feel2: "2",
+                con2: "Han ido ya a todos los que encuentra de primeras.",
+                ima2: "cartoon-thinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
-                
-                /*** PASO #4: OBSERVA ***/ 
-                
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
-                
-                 /*** PASO #5: ANALIZA ***/ 
-                
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal3: "En instagram ve una historia de un compañero de clase en un sitio que le llama la atención. Entra en la web para echarle un vistazo.",
+                touch3: "Movil (Instagram)",
+                feel3: "4",
+                con3: "Hace Click en la pestaña de Restaurante, quiere ver que ofrecen las diferentes salas pero no es capaz de encontrar esa información.",
+                ima3: "cartoon-phone-street.png",
 
+                /*** PASO #4: OBSERVA ***/    
+                goal4: "Comienza a mirar las fotos de las diferentes salas para decidirse. Elige finalmente el Salón Indie.",
+                touch4: "Móvil (web Lemon Rock)",
+                feel4: "3",
+                con4: "Ha decidido un poco a ciegas, ya que no sabe cuál es la diferencia entre los distintos salones.",
+                ima4: "cartoon-why.png",
+                
+                /*** PASO #5: ANALIZA ***/       
+                goal5: "Se va al apartado de reservas, quiere reservar para 3 personas el sábado por la noche.",
+                touch5: "Móvil (web Lemon Rock)",
+                feel5: "2",
+                con5: "No puede seleccionar la sala sólo el tipo de mesa.",
+                ima5: "cartoon-reading.png",               
                 
                 /*** PASO #6: CONCLUSION ***/ 
-                
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Reserva para 3 una mesa en sala, deja un comentario en la reserva con la sala a la que quieren ir.",
+                touch6: "Móvil (web Lemon Rock)",
+                feel6: "3",
+                con6: "No sabe si leerán su comentario y le darán mesa esa sala.",
+                ima6: "cartoon-deciding2.png",
                 
                 
                 
