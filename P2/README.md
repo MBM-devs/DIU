@@ -74,4 +74,9 @@ Desde todas las páginas de la app se podría acceder a las páginas de Reserva 
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Las conclusiones que sacamos en la práctica anterior gracias a las experiencias de las personas ficticias han hecho que nos sea fácil detectar los puntos fuertes y débiles de la web del Lemon Rock. A partir de las personas ficticias, hemos propuesto varias ideas posibles para el microsite.  
+
+Finalmente optamos por un evento cultural que uniese los fuertes del Lemon rock: gastronomía y eventos. Nos inspiramos en que ofrecen eventos de intercambio de idiomas para proponer un evento cultural. 
+
+Hemos optado por un diseño simple y minimalista en el que en todo momento destaca la acción principal: Reservar. Intentamos que en todas las páginas se muestre la información de forma concisa y visual, sin excesivos textos, tratando de mejorar los puntos débiles encontrados durante el análisis.
+
