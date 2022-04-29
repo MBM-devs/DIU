@@ -70,7 +70,7 @@ Desde todas las páginas de la app se podría acceder a las páginas de Reserva 
 
 ### Prototipo Lo-FI Wireframe 
 
-![unknown-3](https://user-images.githubusercontent.com/72018461/165919672-cfe913d8-bcea-4970-87f5-f4737fca96d2.png)
+![image](https://user-images.githubusercontent.com/72018461/165922054-4a88dec9-6496-4ac5-8127-5785a2d369f8.png)
 
 
 ### Conclusiones  
