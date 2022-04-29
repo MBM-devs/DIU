@@ -25,6 +25,7 @@ Mes de la cultura gastronómica: Proponemos durante Mayo una inmersión cultural
 ### TASK ANALYSIS
 
 * User Task Matrix 
+Vamos a identificar las tareas y su relevancia para los usuarios. Hemos elegido la Matriz de tareas/usuarios porque nos permite destacar aquellas tareas y grupos de usuarios más importantes para nuestro proyecto, para así tener claro cuales son los que hay que diseñar con un mayor detalle.
 
 |                    User Tasks                   | User Group 1 - Clientes habituales | User Group 2 - Grupos de Amigos  | User Group 3 - Turistas | User Group 4 - Amantes de los eventos culturales |
 |:-----------------------------------------------:|:----------------------------------:|:--------------------------------:|:-----------------------:|:------------------------------------------------:|
@@ -38,11 +39,33 @@ Mes de la cultura gastronómica: Proponemos durante Mayo una inmersión cultural
 | Ver los conciertos y actividades que se ofertan |                High                |              Medium              |          Medium         |                       High                       |
 |      Consultar la  temática de cada semana      |               Medium               |               High               |           Low           |                      Medium                      |
 
+Nuestros grupos de usuarios son los siguientes:
+* Clientes habituales: Son clientes que visitan con frecuencia el establecimiento. Es uno de nuestros perfiles críticos. 
+* Grupos de Amigos: Clientes que visitan el establecimiento como un grupo grande de personas. Se trata del segundo perfil crítico.
+* Turistas: Clientes que no residen en Granada y buscan un sitio cerca de donde se encuentran para comer.
+* Amantes de los eventos culturales: Se trata de todas aquellas personas que acuden al Lemon Rock movidas por los eventos que hay previstos y no le dan tanta importancia a la parte gastronómica.
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+La organización lógica de navegación es la siguiente:
+
+<img width="1738" alt="Sitemap" src="https://user-images.githubusercontent.com/72018461/165919425-8951880b-c053-4898-87dc-4f1f271549b2.png">
+
+
+Desde todas las páginas de la app se podría acceder a las páginas de Reserva y la web oficial de Lemon Rock. En el sitemap no se muestran dichas navegaciones para simplificar el esquema.
+
 * Labelling 
+
+|         Label        |                                                                                    Scope Note                                                                                    | User Group 2 - Grupos de Amigos  | User Group 3 - Turistas | User Group 4 - Amantes de los eventos culturales |
+|:--------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------:|:-----------------------:|:------------------------------------------------:|
+| HomePage             | Página principal de nuestro microsite que permite dirigirte a la información sobre el mes de la cultura gastronómica, reservar para éste evento o visitar la web del Lemon Rock. |               High               |           Low           |                       High                       |
+| Saber más…           | Lleva a la página con toda la información del Mes de la cultura gastronómica. En ella se muestra la temática de cada semana con enlaces a los eventos de ésta.                   |               High               |           Low           |                       High                       |
+| Reserva              | Dirige a la página de reserva para el Mes de la  Cultura Gastronómica.                                                                                                           |                Low               |           High          |                        Low                       |
+| Menú                 | Accede a la carta de platos disponibles según la temática de la semana desde la que se accede durante el Mes de la Cultura Gastronómica.                                         |              Medium              |           Low           |                       High                       |
+| Eventos              | Consulta los eventos que se celebran la semana desde la que se accede durante el Mes de la Cultura Gastronómica.                                                                 |               High               |           Low           |                      Medium                      |
+| Visita nuestra web…  | Lleva a la página principal de la web del Lemon Rock.                                                                                                                            |               High               |           High          |                        Low                       |
 
 
 ### Prototipo Lo-FI Wireframe 
