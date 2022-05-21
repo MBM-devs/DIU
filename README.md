@@ -180,7 +180,7 @@ Para hacer el logotipo hemos hecho utilizando Photoshop con resolución 744 x 74
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-![Landing Page](P3/images/LandingPage.png)
+![Landing Page](P3/images/landing.png)
 Nuestra propuesta es una página sencilla con el título del evento sobre una imagen de algún plato que inspire al usuario a entrar en la página. El texto tendrá un fondo borroso para que se pueda visualizar correctamente sobre la imagen.
 Debajo de la imagen se muestra un carrusel de tarjetas con los beneficios de la propuesta que pueden ser: frases con slogans e imágenes inspiradoras, testimonios de usuarios con una foto de éstos, etc. 
 Por último, un botón con la acción principal que queremos destacar: ir a la página del evento.
