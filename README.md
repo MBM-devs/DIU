@@ -66,7 +66,7 @@ Ainhoa Montagut Buiges: Ainhoa quiere ir a cenar con sus amigas a un lugar nuevo
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-El documento de la Usability Review se encuentra en la siguiente <a href="https://github.com/MBM-devs/DIU/blob/master/P1/Usability%20Review/Usability-review.pdf">carpeta</a>.
+El documento de la Usability Review se encuentra en la siguiente [carpeta](https://github.com/MBM-devs/DIU/blob/master/P1/Usability%20Review/Usability-review.pdf).
 
 Los principales problemas del sitio web residen en su funcionalidad y en parte al diseño, como puede ser el uso de texto de color negro sobre un fondo en el que hay varias imágenes que van cambiando, por lo que con algunas de ellas el texto no es legible. También ocurre que utilizan en otras secciones un color de letra amarillo sobre un fondo blanco, dificultando de nuevo la legibilidad del texto.<br/>
 En cuanto a la funcionalidad, utilizan una web de reserva externa al Lemon Rock, lo cual puede provocar ciertos problemas.<br/>
@@ -174,31 +174,23 @@ Hemos optado por un diseño simple y minimalista en el que en todo momento desta
 Hemos creado nuestro mood board en Milanote, se puede consultar en el siguiente [enlace](https://app.milanote.com/1NKr8q16lfUh4j?p=DNUS5Zm87SG). 
 ![image](P3/images/moodboard.png)
 
-En el apartado de [Guidelines](#guidelines) explicamos un poco mejor cada elemento.
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+En el apartado de [Guidelines](#método-uximgguidelinespng-3c-guidelines) explicamos un poco mejor cada elemento.
 
+Para hacer el logotipo hemos hecho utilizando Photoshop con resolución 744 x 744 pixeles, por lo que no se podria usar como cabecera de Twitter, habría que adaptarlo o utilizar el logo como foto de perfil y en el encabezado poner una imagen del restaurante por ejemplo. Además hemos usado Procreate, una app de iPad para conseguir el logo oficial con mayor calidad, retintándolo sobre la foto original.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-<div style="width: 100%; height: fit-content; display: flex; margin-bottom: 20px;">
-<img src="P3/images/LandingPage.png" style="float: left; max-width : 50%">
-<img src="P3/images/LandingPage2.png" style="float: left; max-width : 50%">
-
-</div>
+![Landing Page](P3/images/LandingPage.png)
 Nuestra propuesta es una página sencilla con el título del evento sobre una imagen de algún plato que inspire al usuario a entrar en la página. El texto tendrá un fondo borroso para que se pueda visualizar correctamente sobre la imagen.
 Debajo de la imagen se muestra un carrusel de tarjetas con los beneficios de la propuesta que pueden ser: frases con slogans e imágenes inspiradoras, testimonios de usuarios con una foto de éstos, etc. 
 Por último, un botón con la acción principal que queremos destacar: ir a la página del evento.
 
-<a name="guidelines">
 ![Método UX](img/guidelines.png) 3.c Guidelines
-</a>
-
 ----
+
 **Patrones IU**
 
-Hemos obtenido los patrones de la página web de <a href="https://ui-patterns.com/">UI Patterns</a>.<br/>
+Hemos obtenido los patrones de la página web de [UI Patterns](https://ui-patterns.com/).<br/>
 * **Calendar picker**: Permite al usuario escoger una fecha del calendario. Este patrón nos será útil para que el usuario pueda reservar mesa en la fecha deseada.<br/>
 * **Event calendar**: Permite al usuario localizar fácilmente los eventos que ocurren en la fecha deseada. Los eventos se muestran de manera clara y concisa.<br/>
 * **Carrusel**: Como en una app móvil no disponemos de tanto espacio en la pantalla, los eventos se mostrarán de forma más visual con este patrón, mostrando la información clave de éstos: imagen, nombre, fecha, sala, etc.
@@ -206,47 +198,36 @@ Hemos obtenido los patrones de la página web de <a href="https://ui-patterns.co
 
 **Guidelines**
 
-<img src="P3/images/PALETA.png" style="float: right; max-width : 25%">
 * **Paleta de colores**: Tomamos como base la paleta del sitio oficial de Lemon Rock que extrajimos mediante la herramienta [Stylify Me](http://stylifyme.com/). Consideramos que esta paleta es una parte característica de su identidad, y que le hace destacar del resto. A ésta paleta le añadimos un azul verdoso como complementario para los elementos que queramos destacar y le añadimos también un gris azulado y un amarillo más oscuro por si eran necesarios para que algun texto se viese mejor.
 
+![Paleta](P3/images/PALETA.png)
+
 * **Logotipo (Imagotipo)**: Hemos adaptado el logotipo del Lemon Rock, que era el propio nombre del restaurante escrito a mano para que represente mejor el ambiente multicultural que proponemos. Hemos creado un globo terráqueo donde los continentes son sustituidos por una textura de limón. Además superponemos el logo original del Lemon Rock en blanco y con un borde del color complementario que habíamos elegido, para que de la impresión de que las letras son luces de neón.
-Lo hemos hecho utilizando Photoshop con resolución 744 x 744 pixeles, por lo que no se podria usar como cabecera de Twitter, habría que adaptarlo o utilizar el logo como foto de perfil y en el encabezado poner una imagen del restaurante por ejemplo. Además hemos usado Procreate, una app de iPad para conseguir el logo oficial con mayor calidad, retintándolo sobre la foto original.
 Durante su desarrollo planteamos diferentes estilos para el logo, hasta que finalmente nos decidimos por uno en concreto. A continuación mostramos la evolución del logo, la ultima imagen es por la que nos decantamos finalmente:
 
-<div style="width: 100%">
-  <img src="P3/images/logo1.png" style="float: left; max-width : 25%">
-  <img src="P3/images/logo.png" style="float: left; max-width : 25%">
-  <img src="P3/images/logo2.png" style="float: left; max-width : 25%">
-  <img src="P3/images/logo3.png" style="float: left; max-width : 25%">
-</div>
+![Logos](P3/images/logos.png)
 
-* **Tipografía:** La tipografía principal que usaremos será Montserrat, ya que es la que utiliza el Lemon Rock y nos parece adecuada por su legibilidad y diseño. 
-Para los títulos hemos escogido la tipografía Bitter, que proporciona un diseño más característico pese a ser menos legible que Monserrat.*
+* **Tipografía:** La tipografía para el texto de la página que usaremos será Montserrat, ya que es la que utiliza el Lemon Rock y nos parece adecuada por su legibilidad y diseño. 
+Para los títulos en un principio buscamos una tipografía Serif que contrastase con la elegida para el texto, por lo que elegimos Soria al hacer el moodboard, pero al comenzar con el prototipo, esta fuente no estaba disponible en Figma por lo que la cambiamos a Bitter que nos gustó mas y tiene un estilo parceido. Para elegir la tipografía utilizamos [Font Pair](https://www.fontpair.co).
 
 * **Iconografía**
-Los iconos los hemos obtenido de Font Awesome, que nos ofrece una gran variedad de iconos con un diseño que se adapta muy bien a nuestra aplicación. También hemos usado los iconos que nos proporciona el propio Figma a la hora de diseñar el Layout.
-Además, hemos añadido al menú los iconos de los alérgenos para informar a aquellos usuarios que sean intolerantes a cierto tipo de alimento y puedan comprobar de antemano qué pueden comer en el local.
+Los iconos los hemos obtenido de [Font Awesome Icons](https://fontawesome.com/icons), que nos ofrece una gran variedad de iconos con un diseño que se adapta muy bien a nuestra aplicación. Los iconos escogidos son muy representativos, para no dejar duda de su función. Un ejemplo es el icono del calendario, que utlizamos para que el usuario pueda elegir cómodamente una fecha.
 
 * **Estilo de lenguaje**
 El estilo de lenguaje usado en toda la aplicación es simple, para que todo usuario pueda entender lo que ofrecemos fácilmente, ya que nuestro objetivo es tener el mayor número de usuarios posible.
 
 
-
 ![Método UX](img/mockup.png)  3.d Layout
 ----
 
-Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos utilizado Figma, utilizando todos los patrones y guidelines que hemos 
+Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos utilizado Figma, utilizando todos los patrones y guidelines que hemos definido anteriormente.
 
-<img src="P3/images/layout.png">
+<img src="P3/images/Prototipo.png">
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
-
+Para mostrar el funcionamiento de nuestra aplicación grabamos un video del prototipo para mostrar los enlaces e interacciones.
 
 
 ## Paso 4. Evaluación 
