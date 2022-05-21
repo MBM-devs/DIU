@@ -227,7 +227,7 @@ Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Para mostrar el funcionamiento de nuestra aplicación grabamos un ![video](P3/images/demoApp.mp4) del prototipo para mostrar los enlaces e interacciones. 
+Para mostrar el funcionamiento de nuestra aplicación grabamos un video del prototipo para mostrar los enlaces e interacciones para después convertirlo en gif.
 
 
 ## Paso 4. Evaluación 
