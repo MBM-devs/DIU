@@ -228,6 +228,7 @@ Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos
 -----
 
 Para mostrar el funcionamiento de nuestra aplicación grabamos un video del prototipo para mostrar los enlaces e interacciones para después convertirlo a gif.
+
 ![Demo](P3/images/demoApp.gif)
 
 
