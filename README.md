@@ -220,14 +220,14 @@ El estilo de lenguaje usado en toda la aplicación es simple, para que todo usua
 ![Método UX](img/mockup.png)  3.d Layout
 ----
 
-Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos utilizado Figma, utilizando todos los patrones y guidelines que hemos definido anteriormente.
+Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos utilizado Figma, usando todos los patrones y guidelines que hemos definido anteriormente. Para poder verlo en tiempo real, se puede acceder a Figma mediante el siguiente [enlace](https://www.figma.com/proto/ivoOYcn7CJ1tNShGUV6nie/Layout?node-id=4%3A127&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A127).
 
-<img src="P3/images/Prototipo.png">
+![Prototipo](P3/images/Prototipo.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-Para mostrar el funcionamiento de nuestra aplicación grabamos un video del prototipo para mostrar los enlaces e interacciones.
+Para mostrar el funcionamiento de nuestra aplicación grabamos un ![video](P3/images/demoApp.mp4) del prototipo para mostrar los enlaces e interacciones. 
 
 
 ## Paso 4. Evaluación 
