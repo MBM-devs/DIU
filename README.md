@@ -220,8 +220,17 @@ El estilo de lenguaje usado en toda la aplicación es simple, para que todo usua
 ![Método UX](img/mockup.png)  3.d Layout
 ----
 
-Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos utilizado Figma, usando todos los patrones y guidelines que hemos definido anteriormente. Para poder verlo en tiempo real, se puede acceder a Figma mediante el siguiente [enlace](https://www.figma.com/proto/ivoOYcn7CJ1tNShGUV6nie/Layout?node-id=4%3A127&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A127).
+Hemos diseñado varias de las pantallas de nuestra aplicación. Para ello, hemos utilizado Figma, usando todos los patrones y guidelines que hemos definido anteriormente. 
+Hemos optado por un diseño en modo oscuro ya que combinaba mejor con mejor la paleta elegida, como el color principal es el amarillo pensamos que sobre un fondo blanco no destacaría lo suficiente. Además queríamos mejorar algunos fallos que encontramos en la web del Lemon Rock en la practica 1, ya que en varias ocasiones observamos que el texto no era legible por los colores utilizados. 
+Para poder verlo en tiempo real, se puede acceder a Figma mediante el siguiente [enlace](https://www.figma.com/proto/ivoOYcn7CJ1tNShGUV6nie/Layout?node-id=4%3A127&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=4%3A127).
 
+De izquierda a derecha, tenemos ordenadas nuestras páginas:
+
+* En primer lugar nos encontramos la página principal, donde vemos una breve explicación del evento del Mes de la Cultura Gastronómica, y un carrusel de imágenes de varios platos de distintas culturas. 
+* El enlace **Saber más...** nos lleva a la distribución del mes, es decir, una paǵina con las 4 semanas del evento. 
+* Al hacer click en cualquier semana, nos lleva a la página de esa semana donde tenemos un carrusel de los eventos, con una descripción e imagen de cada uno, y la carta general de la semana, con los platos más destacados.
+* Si en algún momento queremos retroceder a la página anterior, tenemos un botón de una flecha en la parte superior izquierda de la pantalla.
+* Además, desde cualquier página de la aplicación tendremos disponibles las opciones tanto de visitar la página web oficial del Lemon Rock, como de entrar en la página de Reserva, donde podremos introducir nuestros datos y escoger la fecha y sala a la que se desea asistir.
 ![Prototipo](P3/images/Prototipo.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
